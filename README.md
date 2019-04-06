@@ -1,2 +1,2 @@
-# cryptology
-code and assignments for honours cryptology course
+# Cryptology
+Code and Assignment for Cryptology course - CSC792
